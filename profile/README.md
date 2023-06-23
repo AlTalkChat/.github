@@ -18,12 +18,12 @@
 | 정원철 | 프론트엔드 고수 |
 | 지선호 | 미생            |
 
-#### 스터디훈 : -공란-
+#### 스터디훈 : 알톡챗 시작해줘
 
 ---
 
 <h4 align="center"> 서유진 </h2>
-<h5>
+<h5 align="center">
     각오 : 열심히 하겠습니다.
 </h5>
 <div align="center">
@@ -46,28 +46,26 @@
 
 
 <h4 align="center"> 안려환 </h2>
-<h5>
-    각오 : 열심히 하겠습니다.
+<h5 align="center">
+    각오 : 세상아 덤벼라
 </h5>
 <div align="center">
- <h5>Languages & Platforms </h5>
+ <h5>Languages & Framework </h5>
+  <img src="https://img.shields.io/badge/openjdk-FFFFFFB?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
  <div>
  <h5>IDEs</h5>
  <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white">
+ <img src="https://img.shields.io/badge/Intellij%20IDE-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white">
  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
- <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white">
     </div>
 </div>
 
 ---
 
 <h4 align="center"> 윤동근 </h2>
-<h5>
+<h5 align="center">
     각오 : 열심히 하겠습니다.
 </h5>
 <div align="center">
@@ -88,28 +86,26 @@
 ---
 
 <h4 align="center"> 이예은 </h2>
-<h5>
+<h5 align="center">
     각오 : 열심히 하겠습니다.
 </h5>
 <div align="center">
- <h5>Languages & Platforms </h5>
+ <h5>Languages & Framework </h5>
+  <img src="https://img.shields.io/badge/openjdk-FFFFFFB?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
  <div>
  <h5>IDEs</h5>
  <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white">
+ <img src="https://img.shields.io/badge/Intellij%20IDE-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white">
  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
- <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white">
     </div>
 </div>
 
 ---
 
 <h4 align="center"> 이예진 </h2>
-<h5>
+<h5 align="center">
     각오 : 열심히 하겠습니다.
 </h5>
 <div align="center">
@@ -130,7 +126,7 @@
 ---
 
 <h4 align="center"> 정원철 </h2>
-<h5>
+<h5 align="center">
     각오 : 열심히 하겠습니다.
 </h5>
 <div align="center">
@@ -151,21 +147,19 @@
 ---
 
 <h4 align="center"> 지선호 </h2>
-<h5>
+<h5 align="center">
     각오 : 열심히 하겠습니다.
 </h5>
 <div align="center">
- <h5>Languages & Platforms </h5>
+ <h5>Languages & Framework </h5>
+  <img src="https://img.shields.io/badge/openjdk-FFFFFFB?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
  <div>
  <h5>IDEs</h5>
  <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white">
+ <img src="https://img.shields.io/badge/Intellij%20IDE-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white">
  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
- <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white">
     </div>
 </div>
 
